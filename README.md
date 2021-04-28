@@ -6,4 +6,4 @@ Introduction to Java Programming and Data Structures
 
 部分课后题 作业
 
-每章的练习题参加博客https://www.cnblogs.com/wkfvawl/category/1263735.html?page=1
+每章的练习题参见博客https://www.cnblogs.com/wkfvawl/category/1263735.html?page=1
